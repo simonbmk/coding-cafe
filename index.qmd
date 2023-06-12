@@ -1,5 +1,5 @@
 ---
-title: "coding-cafe-SDCA-AU"
+title: "R coding café at Steno Diabetes Center Aarhus and Aarhus University"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,3 +10,21 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+Welcome to the R coding café at the [Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/forskning/) (SDCA) and the [Department of Public Health at Aarhus University](https://ph.au.dk/) (AU-PH).
+
+The coding café is a place for anyone working at SDCA and/or AU-PH to get assistance with CODING in R. The only prerequisite is that you have had some type of introduction to R, preferably through a course such as [this](https://r-cubed-intro.rostools.org/) one offered by the Danish Diabetes and Endocrinology Academy. The sessions are open and one can join in and out at anytime during the allotted time. There will be two instructors with experience working in R. We also highly encourage the participants to interact with each other - maybe there is someone in the group that has the solution to your problem.
+
+Things to do before asking for help...
+
+Asking a clear coding question...
+
+Note about sensitive data...
+
+During the sessions there will be free cake and coffee/tea.
+
+## Want to come
+
+Go [here](posts/schedule-2023-fall/index.qmd) to see the current schedule, where to meet and subscribe to the calendar.
+
+## Blogs

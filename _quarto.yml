@@ -2,14 +2,12 @@ project:
   type: website
 
 website:
-  title: "coding-cafe-SDCA-AU"
+  title: "R coding café at Steno Diabetes Center Aarhus and Aarhus University"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme: cosmo

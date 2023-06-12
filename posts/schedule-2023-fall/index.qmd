@@ -1,0 +1,21 @@
+---
+title: "Schedule Fall 2023"
+description: "R coding café schedule for the 2023 Fall semester"
+author: "Daniel Ibsen"
+date: last-modified
+categories: 
+  - schedule
+  - 2023 
+---
+
+```{r schedule-2023-fall, include=FALSE, echo=FALSE, results='hide', message=FALSE}
+library(here)
+library(knitr)
+
+schedule_2023_fall <- read.csv(here("data", "schedule-2023-fall.csv"))
+
+```
+
+The schedule for fall 2023. More information to come.
+
+`r knitr::kable(schedule_2023_fall)` 
