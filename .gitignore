@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 _site
+site_libs
 
 /.quarto/
