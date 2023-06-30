@@ -13,15 +13,11 @@ title-block-banner: true
 
 Welcome to the R coding café at the [Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/forskning/) (SDCA) and the [Department of Public Health at Aarhus University](https://ph.au.dk/) (AU-PH).
 
-The coding café is a place for anyone working at SDCA and/or AU-PH to get assistance with CODING in R. The only prerequisite is that you have had some type of introduction to R, preferably through a course such as [this](https://r-cubed-intro.rostools.org/) one offered by the Danish Diabetes and Endocrinology Academy. The sessions are open and one can join in and out at anytime during the allotted time. There will be two instructors with experience working in R. We also highly encourage the participants to interact with each other - maybe there is someone in the group that has the solution to your problem.
+The coding café is a place for anyone working at SDCA and/or AU-PH to get assistance with CODING in R. The only prerequisite is that you have had some type of introduction to R, preferably through a course such as [this](https://r-cubed-intro.rostools.org/) one offered by the Danish Diabetes and Endocrinology Academy. 
 
-Things to do before asking for help...
+The sessions are open and one can join in and out at anytime during the allotted time. There will be two instructors with experience working in R. We also highly encourage the participants to interact with each other - maybe there is someone in the group that has the solution to your problem.
 
-Asking a clear coding question...
-
-Note about sensitive data...
-
-During the sessions there will be free cake and coffee/tea.
+During the sessions there will be free cake and coffee/tea - or whatever is appropriate for the time of the day.
 
 ## Want to come
 
@@ -36,5 +32,13 @@ schedule_2023_fall <- read.csv(here("data", "schedule-2023-fall.csv"))
 See the schedule for fall 2023. More information to come.
 
 `r knitr::kable(schedule_2023_fall)` 
+
+## Practical information
+
+Things to do before asking for help...
+
+Asking a clear coding question...
+
+Note about sensitive data...
 
 ## Blogs
