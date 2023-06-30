@@ -24,10 +24,8 @@ During the sessions there will be free cake and coffee/tea - or whatever is appr
 ```{r schedule-2023-fall, include=FALSE, echo=FALSE, results='hide', message=FALSE}
 library(here)
 library(knitr)
-library(rmarkdown)
 
 schedule_2023_fall <- read.csv(here("data", "schedule-2023-fall.csv"))
-
 ```
 
 See the schedule for fall 2023. More information to come.
