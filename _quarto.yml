@@ -5,7 +5,6 @@ website:
   title: "R coding café at Steno Diabetes Center Aarhus and the Department of Publi Health, Aarhus University"
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/
 format:
