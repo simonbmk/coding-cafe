@@ -11,6 +11,10 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    
+execute: 
+  freeze: true
 
 editor: visual
+title-block-banner: images/banner-transparent.png
 
