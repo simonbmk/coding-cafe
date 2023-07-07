@@ -9,6 +9,10 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
+execute: 
+  message: false
+  warning: false
+  echo: false
 ---
 
 Welcome to the Coding Café at the [Steno Diabetes Center
@@ -48,4 +52,4 @@ Asking a clear coding question...
 
 Note about sensitive data...
 
-## Blogs
+<!-- ## Blogs -->
