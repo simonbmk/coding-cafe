@@ -1,5 +1,4 @@
 ---
-title: "R coding café at Steno Diabetes Center Aarhus and Aarhus University"
 listing:
   contents: posts
   sort: "date desc"
@@ -7,6 +6,8 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+title: "Coding Café"
+subtitle: "Steno Diabetes Center Aarhus and Aarhus University"
 page-layout: full
 title-block-banner: true
 ---

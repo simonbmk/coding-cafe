@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "R coding café at Steno Diabetes Center Aarhus and the Department of Publi Health, Aarhus University"
+  title: "Coding Café"
   navbar:
     right:
       - icon: github
