@@ -2,16 +2,24 @@ project:
   type: website
 
 website:
-  title: "R coding café at Steno Diabetes Center Aarhus and the Department of Publi Health, Aarhus University"
+  title: "Coding Café"
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/
 format:
   html:
     theme: cosmo
     css: styles.css
+    
+execute: 
+  freeze: true
 
-editor: visual
+title-block-banner: images/banner-transparent.png
+
+editor: 
+  visual: default
+  markdown: 
+    wrap: 72
+    canonical: true
 
