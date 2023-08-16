@@ -1,0 +1,81 @@
+---
+title: "Coding café"
+title-block-banner: images/banner-transparent.png
+author:
+    name: Epidemiology and Biostatistics group
+    affiliation: Steno Diabetes Center Aarhus and Department of Public Health, Aarhus University
+
+format:
+ html:
+    theme: default
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+*Are you facing challenges with coding in R? Do you wish to enhance your
+coding skills and be part of a supportive R community?*
+
+Introducing the coding cafe by the Department of Public Health, Aarhus
+University, and Steno Diabetes Center Aarhus! This cafe is specifically
+designed to establish a community where people can help each other with
+R coding solutions. If you are an employee of the Department of Public
+Health or Steno Diabetes Center Aarhus, you are warmly welcomed to join
+us! During each session, two experienced R users will be available to
+provide guidance, but we encourage participants to engage with and
+support each other.
+
+To keep the productivity and joyfulness high there will be served cake
+and coffee/tea at each session.
+
+## How can I attend?
+
+The coding cafe is open to everyone using *R*. We won't be teaching *R*
+from scratch, so some experience with R coding is recommended. If you
+need to brush up your skills, you can check out the *Open source
+training solutions for R* provided below. The coding café will convene
+every two weeks, alternating between Steno Diabetes Center Aarhus and
+the Department of Public Health at Aarhus University.
+
+## Calendar
+
+```{r tbl-schedule}
+#| tbl-cap: "Upcoming dates, times, and locations for the Café sessions."
+#| echo: false
+schedule <- read.csv(here::here("data", "schedule.csv"))
+knitr::kable(schedule)
+```
+
+*SDCA: Steno Diabetes Center Aarhus in Forum at Aarhus University
+Hospital*
+
+*AU-PH: Department of Public Health at Aarhus University*
+
+## Open source training solutions for R
+
+To get started or improve your R coding abilities, you can explore the
+following resources:
+
+-   Online course: [R for beginners - John
+    Hopkins](https://www.coursera.org/specializations/data-science-foundations-r)
+    -   Begin with *course 1* and progress through *course 5*
+    -   Primarily covers solutions in base R language
+    -   Click *enrol for free* and then press *audit* to access the
+        course without payment
+-   Online book: [*R for Data Science*](https://r4ds.had.co.nz/)
+    -   Offers easy data management solutions and more
+    -   Uses tidyverse language
+-   Attend Luke Johnston's R courses at the Danish Diabetes and
+    Endocrinology Academy
+    -   Start from the beginner level and advance to the more advanced
+        courses
+    -   [Stay tuned and register](https://ddeacademy.dk/events)
+    -   [Material for the three courses](https://r-cubed.rostools.org/)
+
+## Contact
+
+If you wish to get more information about the coding cafe, please visit
+the [coding cafe website](https://coding-cafe-sdca-au.netlify.app/) or
+feel free to reach out to Jonas Schaarup at
+[jfrscha\@ph.au.dk](mailto:jfrscha@ph.au.dk) or Daniel Ibsen at
+[dbi\@ph.au.dk](mailto:dbi@ph.au.dk).
