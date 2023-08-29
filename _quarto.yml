@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/steno-aarhus/coding-cafe
 format:
   html:
     theme: cosmo
