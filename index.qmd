@@ -46,6 +46,11 @@ knitr::kable(schedule)
 
 ## Practical information
 
+### How to find us
+The location of the coding café alternates between the Department of Public Health at Aarhus University (Building 1260-1261, Bartholins Allé 2, 8000 Aarhus - [Link to Google Maps](https://www.google.com/maps/place/Institut+for+Folkesundhed,+Aarhus+Universitet/@56.1661664,10.2058468,19z/data=!4m7!3m6!1s0x464c3fbf0462c881:0x2a6b052ab10f41e9!4b1!8m2!3d56.1660574!4d10.2058163!16s%2Fg%2F11xj2y1z6?hl=da-DK&entry=ttu)) and Steno Diabetes Center at Aarhus University Hospital (Entrance A, Palle Juul-Jensens Blvd. 5, 8200 Aarhus N - [Link to Google Maps](https://www.google.com/maps/place/AUH+Forum/@56.1903228,10.1674529,16.5z/data=!4m15!1m8!3m7!1s0x464c158b564e2c4b:0x6a314a2e58fad86!2sPalle+Juul-Jensens+Blvd.+99,+8200+Aarhus!3b1!8m2!3d56.1918906!4d10.1719926!16s%2Fg%2F11kzxydzkg!3m5!1s0x464c15169bcedc65:0x534d30253a9b8527!8m2!3d56.1900371!4d10.1684204!16s%2Fg%2F11fn4dcj2d?entry=ttu)).
+At the Department of Public Health, we usually have the café sessions in the lunch room, which is on the ground floor. At Steno, the sessions are often held in the Spektrummet room, which is on the 4th floor. If you don't know the way, just come to the kitchen area on the 4th floor and we'll pick you up there.
+
+
 ### Things to do before asking for help
 Being a good coder in R does not necessarily mean that one just sits down and writes a lot of code like writing a piece of text. Even experienced R users search online for code. The great thing about R is that there is often multiple solutions to a coding problem. What often separates an experienced user from a new user is that the experienced user know what to search for, where to search and understand the replies.
 
