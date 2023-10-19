@@ -13,7 +13,7 @@ format:
     css: styles.css
     
 execute: 
-  freeze: true
+  freeze: auto
 
 title-block-banner: images/banner-transparent.png
 
