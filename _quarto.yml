@@ -12,9 +12,6 @@ format:
     theme: cosmo
     css: styles.css
     
-execute: 
-  freeze: auto
-
 title-block-banner: images/banner-transparent.png
 
 editor: 
